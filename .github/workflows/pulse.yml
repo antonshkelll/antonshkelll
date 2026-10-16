@@ -1,0 +1,27 @@
+name: Market card
+
+on:
+  schedule:
+    - cron: "45 21 * * *"   # через полчаса после обновления ru-market-pulse
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  card:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - run: python scripts/pulse_card.py
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/market-*.svg
+          if git diff --cached --quiet; then echo "Без изменений"; exit 0; fi
+          git commit -m "Обновить карточку рынка"
+          git push

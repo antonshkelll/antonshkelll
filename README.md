@@ -26,6 +26,14 @@
 
 &nbsp;
 
+## Сегодня на рынке
+
+<a href="https://github.com/antonshkelll/ru-market-pulse"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/market-dark.svg"><img src="assets/market-light.svg" width="100%" alt="Сегодня на рынке: индекс МосБиржи, гособлигации, юань, Сбербанк"></picture></a>
+
+<sub>Карточку каждую ночь перерисовывает GitHub Actions по свежим данным Московской биржи из проекта «Пульс рынка».</sub>
+
+&nbsp;
+
 ## Живые продукты
 
 **[Спроси ССт НАБ](https://t.me/sprosinab_bot)** — бот и Telegram Mini App Студсовета факультета: вопросы руководству, поломки с фото, FAQ, карта корпуса с поиском аудиторий. Подпись Mini App проверяется на сервере, а продуктовые метрики считаются по событиям.
