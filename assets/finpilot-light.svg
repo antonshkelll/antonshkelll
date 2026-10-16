@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" width="640" height="380" role="img" aria-label="finpilot">
+  <rect width="640" height="380" fill="#ffffff"/>
+  <rect x="8" y="8" width="624" height="364" rx="30" fill="#f5f5f7"/>
+  <text x="44" y="70" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#bf4800">AI-агенты · MCP</text>
+  <text x="42" y="122" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-1" fill="#1d1d1f">finpilot</text>
+  <text x="44" y="168" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#6e6e73">Банковская выписка для Claude и Cursor:</text><text x="44" y="200" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#6e6e73">подписки, необычные списания, прогноз</text>
+  <text x="42" y="312" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5" fill="#bf4800">7</text>
+  <text x="44" y="344" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="19" fill="#6e6e73">инструментов для AI-ассистента, данные локально</text>
+</svg>

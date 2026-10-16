@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" width="640" height="380" role="img" aria-label="DropHunter">
+  <rect width="640" height="380" fill="#0d1117"/>
+  <rect x="8" y="8" width="624" height="364" rx="30" fill="#1c1c1e"/>
+  <text x="44" y="70" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#ff453a">Антифрод</text>
+  <text x="42" y="122" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="700" letter-spacing="-1" fill="#f5f5f7">DropHunter</text>
+  <text x="44" y="168" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#a1a1a6">Поиск дропперов в P2P-переводах:</text><text x="44" y="200" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="23" fill="#a1a1a6">SQL-признаки, бустинг, порог по деньгам</text>
+  <text x="42" y="312" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-1.5" fill="#ff453a">0,80</text>
+  <text x="44" y="344" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="19" fill="#a1a1a6">PR-AUC против 0,36 у правил</text>
+</svg>
