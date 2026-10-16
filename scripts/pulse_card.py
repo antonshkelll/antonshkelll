@@ -6,6 +6,7 @@ from __future__ import annotations
 
 import json
 import sys
+from datetime import datetime
 import urllib.request
 from pathlib import Path
 from xml.sax.saxutils import escape
@@ -57,7 +58,7 @@ def render(data: dict, theme: str) -> str:
         line = (f'<polyline points="{sparkline(closes, 44, 236, 872, 64)}" fill="none" stroke="{t["line"]}" '
                 f'stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>'
                 f'<text x="44" y="330" font-family="{FONT}" font-size="15" fill="{t["muted"]}">Индекс МосБиржи за последние 90 торговых дней</text>')
-    trade_date = max(k["date"] for k in data["kpi"])
+    trade_date = max((k["date"] for k in data["kpi"]), key=lambda d: datetime.strptime(d, "%d.%m.%Y"))
     return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 360" width="960" height="360" role="img" aria-label="Сегодня на рынке">
   <rect width="960" height="360" fill="{t['bg']}"/>
   <rect x="8" y="8" width="944" height="344" rx="30" fill="{t['card']}"/>
@@ -81,7 +82,7 @@ def main() -> int:
     OUT.mkdir(exist_ok=True)
     for theme in THEMES:
         (OUT / f"market-{theme}.svg").write_text(render(data, theme), encoding="utf-8")
-    print("OK", max(k["date"] for k in data["kpi"]))
+    print("OK")
     return 0
 
 
