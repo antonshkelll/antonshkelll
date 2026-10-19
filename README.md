@@ -11,6 +11,8 @@
 
 ## Проекты
 
+<a href="https://github.com/antonshkelll/Subly"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/subly-dark.svg"><img src="assets/subly-light.svg" width="100%" alt="Subly — трекер подписок для Android"></picture></a>
+
 <p>
   <a href="https://github.com/antonshkelll/splitlab-bnpl-analytics"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/splitlab-dark.svg"><img src="assets/splitlab-light.svg" width="49%" alt="SplitLab"></picture></a>
   <a href="https://github.com/antonshkelll/uplift-targeting"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/uplift-dark.svg"><img src="assets/uplift-light.svg" width="49%" alt="Uplift"></picture></a>
@@ -46,7 +48,7 @@
 
 ## Чем пользуюсь
 
-SQL (PostgreSQL, DuckDB) · Python: pandas, SciPy, statsmodels, scikit-learn, PyTorch · A/B-тесты и causal inference · aiogram, Django · Docker, GitHub Actions
+SQL (PostgreSQL, DuckDB) · Python: pandas, SciPy, statsmodels, scikit-learn, PyTorch · A/B-тесты и causal inference · Kotlin: Jetpack Compose, Ktor · aiogram, Django · Docker, GitHub Actions
 
 ## Резюме
 
