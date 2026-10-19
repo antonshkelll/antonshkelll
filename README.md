@@ -54,4 +54,4 @@ SQL (PostgreSQL, DuckDB) · Python: pandas, SciPy, statsmodels, scikit-learn, Py
 
 ## Связаться
 
-[anton.shkel06@mail.ru](mailto:anton.shkel06@mail.ru) · [Telegram](https://t.me/antonloxxxxxxx) · [antonshkel.ru](https://antonshkel.ru)
+[anton.shkel06@mail.ru](mailto:anton.shkel06@mail.ru) · [Telegram](https://t.me/antonshkelll) · [antonshkel.ru](https://antonshkel.ru)
