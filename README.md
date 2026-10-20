@@ -42,7 +42,9 @@
 
 ## Живые продукты
 
-**[Спроси ССт НАБ](https://t.me/sprosinab_bot)** — бот и Telegram Mini App Студсовета факультета: вопросы руководству, поломки с фото, FAQ, карта корпуса с поиском аудиторий. Подпись Mini App проверяется на сервере, а продуктовые метрики считаются по событиям.
+<a href="https://github.com/antonshkelll/nab-bot"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/nab-dark.svg"><img src="assets/nab-light.svg" width="100%" alt="Спроси ССт НАБ — бот и Mini App студсовета"></picture></a>
+
+**[Спроси ССт НАБ](https://t.me/sprosinab_bot)** — бот и Telegram Mini App Студсовета факультета. В версии 3 обращения стали тикетами со статусами и перепиской, появились анонимность с шифрованием связи с автором, контроль сроков ответа, анонсы с записью и напоминаниями, опросы, новости, админка прямо в Mini App и ежемесячный отчёт в Excel. Метрики считаются без слежки: уникальные пользователи хранятся только как хеши с солью периода.
 [Бот](https://github.com/antonshkelll/nab-bot) · [Mini App](https://github.com/antonshkelll/nab-app)
 
 **[antonshkel.ru](https://antonshkel.ru)** — сайт-портфолио и четыре концепт-сайта на чистом HTML/CSS/JS, своя форма заявок, 152-ФЗ, Яндекс Метрика.
