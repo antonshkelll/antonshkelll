@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 380" width="1280" height="380" role="img" aria-label="Экономика быстрого платежа">
+  <rect width="1280" height="380" fill="#ffffff"/>
+  <rect x="8" y="8" width="1264" height="364" rx="30" fill="#f5f5f7"/>
+  <text x="48" y="74" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#0b7285">Исследование · финтех · данные Банка России</text>
+  <text x="46" y="134" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="50" font-weight="700" letter-spacing="-1.5" fill="#1d1d1f">Экономика быстрого платежа</text>
+  <text x="48" y="180" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#6e6e73">Сколько стоит продавцу платёж картой, через СБП</text><text x="48" y="212" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#6e6e73">и в цифровых рублях — и куда движется рынок.</text>
+  <text x="48" y="282" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#1d1d1f">Python · данные ЦБ · юнит-экономика · GitHub Pages</text>
+  <text x="48" y="320" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#6e6e73">Исследование на 29 страниц, 60 слайдов и веб-калькулятор для бизнеса</text>
+  <rect x="872" y="40" width="344" height="314" rx="26" fill="#ffffff" stroke="#e3e3e8"/>
+  <text x="900" y="84" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" fill="#6e6e73">Продавец платит с чека 1 700 ₽</text>
+  <text x="900" y="118" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#1d1d1f">Карта 2% + НДС</text>
+  <rect x="900" y="128" width="288" height="26" rx="8" fill="#d70015"/>
+  <text x="1176" y="147" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">41,48 ₽</text>
+  <text x="900" y="194" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#1d1d1f">СБП 0,7%</text>
+  <rect x="900" y="204" width="83" height="26" rx="8" fill="#0b7285"/>
+  <text x="993" y="223" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#1d1d1f">11,90 ₽</text>
+  <text x="900" y="270" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="15" font-weight="600" fill="#1d1d1f">Цифровой рубль 2027</text>
+  <rect x="900" y="280" width="35" height="26" rx="8" fill="#248a3d"/>
+  <text x="945" y="299" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#1d1d1f">5,10 ₽</text>
+  <text x="900" y="338" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" fill="#6e6e73">расчёт по тарифам на 20.10.2026</text>
+</svg>

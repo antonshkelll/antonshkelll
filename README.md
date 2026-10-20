@@ -13,6 +13,10 @@
 
 <a href="https://github.com/antonshkelll/Subly"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/subly-dark.svg"><img src="assets/subly-light.svg" width="100%" alt="Subly — трекер подписок для Android"></picture></a>
 
+<a href="https://github.com/antonshkelll/sbp-economics"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sbp-dark.svg"><img src="assets/sbp-light.svg" width="100%" alt="Экономика быстрого платежа — исследование СБП и цифрового рубля"></picture></a>
+
+<sub><a href="https://antonshkelll.github.io/sbp-economics/">Калькулятор: сколько ваш бизнес платит за приём денег</a> · <a href="https://github.com/antonshkelll/sbp-economics/tree/main/research">исследование</a> · <a href="https://github.com/antonshkelll/sbp-economics/tree/main/presentation">презентация</a></sub>
+
 <p>
   <a href="https://github.com/antonshkelll/splitlab-bnpl-analytics"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/splitlab-dark.svg"><img src="assets/splitlab-light.svg" width="49%" alt="SplitLab"></picture></a>
   <a href="https://github.com/antonshkelll/uplift-targeting"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/uplift-dark.svg"><img src="assets/uplift-light.svg" width="49%" alt="Uplift"></picture></a>
