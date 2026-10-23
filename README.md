@@ -5,6 +5,8 @@
 
 Учусь на программной инженерии в Финансовом университете. Делаю продукты, которыми пользуются люди: Telegram-боты и Mini App для студенческих проектов, сайты на заказ. Больше всего мне интересно, что с этими продуктами происходит потом, поэтому я занимаюсь аналитикой: метриками, экспериментами и экономикой.
 
+Сейчас участвую в Альфа-Будущее Хакатоне 2026 в команде Vibe Security: отвечаю за продукт и мок-сервисы внешних источников для кредитного кабинета предпринимателя ([материалы](https://github.com/antonshkelll/vibe-security-materials)).
+
 Ищу стажировку продуктового или антифрод-аналитика.
 
 &nbsp;
@@ -54,7 +56,9 @@
 
 ## Чем пользуюсь
 
-SQL (PostgreSQL, DuckDB) · Python: pandas, SciPy, statsmodels, scikit-learn, PyTorch · A/B-тесты и causal inference · Kotlin: Jetpack Compose, Ktor · aiogram, Django · Docker, GitHub Actions
+Языки: Python, SQL, Kotlin, JavaScript, HTML/CSS, Bash
+
+SQL (PostgreSQL, DuckDB) · Python: pandas, SciPy, statsmodels, scikit-learn, PyTorch · A/B-тесты и causal inference · Kotlin: Jetpack Compose, Ktor · aiogram, Django · WireMock, Docker, GitHub Actions
 
 ## Резюме
 
