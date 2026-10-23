@@ -15,7 +15,7 @@
 
 <a href="https://github.com/antonshkelll/sbp-economics"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sbp-dark.svg"><img src="assets/sbp-light.svg" width="100%" alt="Экономика быстрого платежа — исследование СБП и цифрового рубля"></picture></a>
 
-<sub><a href="https://antonshkelll.github.io/sbp-economics/">Калькулятор: сколько ваш бизнес платит за приём денег</a> · <a href="https://github.com/antonshkelll/sbp-economics/tree/main/research">исследование</a> · <a href="https://github.com/antonshkelll/sbp-economics/tree/main/presentation">презентация</a></sub>
+<sub><a href="https://sbp.antonshkel.ru/">Калькулятор: сколько ваш бизнес платит за приём денег</a> · <a href="https://github.com/antonshkelll/sbp-economics/tree/main/research">исследование</a> · <a href="https://github.com/antonshkelll/sbp-economics/tree/main/presentation">презентация</a></sub>
 
 <p>
   <a href="https://github.com/antonshkelll/splitlab-bnpl-analytics"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/splitlab-dark.svg"><img src="assets/splitlab-light.svg" width="49%" alt="SplitLab"></picture></a>
@@ -34,7 +34,7 @@
 
 ## Сегодня на рынке
 
-<a href="https://github.com/antonshkelll/ru-market-pulse"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/market-dark.svg"><img src="assets/market-light.svg" width="100%" alt="Сегодня на рынке: индекс МосБиржи, гособлигации, юань, Сбербанк"></picture></a>
+<a href="https://pulse.antonshkel.ru"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/market-dark.svg"><img src="assets/market-light.svg" width="100%" alt="Сегодня на рынке: индекс МосБиржи, гособлигации, юань, Сбербанк"></picture></a>
 
 <sub>Карточку каждую ночь перерисовывает GitHub Actions по свежим данным Московской биржи из проекта «Пульс рынка».</sub>
 
