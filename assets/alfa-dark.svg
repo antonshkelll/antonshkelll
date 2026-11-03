@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 380" width="1280" height="380" role="img" aria-label="Умный кредитный кабинет">
+  <rect width="1280" height="380" fill="#0d1117"/>
+  <rect x="8" y="8" width="1264" height="364" rx="30" fill="#1c1c1e"/>
+  <text x="48" y="74" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#64d2ff">Альфа-Будущее Хакатон 2026 · Vibe Security</text>
+  <text x="46" y="134" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="50" font-weight="700" letter-spacing="-1.5" fill="#f5f5f7">Умный кредитный кабинет</text>
+  <text x="48" y="180" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#a1a1a6">От заявки до понятного решения:</text><text x="48" y="212" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#a1a1a6">трекер, контрпредложения и объяснения с ИИ.</text>
+  <text x="48" y="282" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#f5f5f7">Kotlin · Spring Boot · Next.js · Ollama</text>
+  <text x="48" y="320" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="18" fill="#a1a1a6">Командный MVP · синтетические данные · мок-сервисы</text>
+</svg>

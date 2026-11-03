@@ -13,6 +13,11 @@
 
 ## Проекты
 
+<a href="https://github.com/antonshkelll/alfa-hack-2026-ai-credit-cabinet"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/alfa-dark.svg"><img src="assets/alfa-light.svg" width="100%" alt="Умный кредитный кабинет — Альфа-Будущее Хакатон 2026, Vibe Security"></picture></a>
+
+Командный MVP для кредитования малого бизнеса. Мой вклад: продуктовая проработка, сценарии и тексты интерфейса, мок-сервисы внешних источников и синтетические данные.
+
+
 <a href="https://github.com/antonshkelll/Subly"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/subly-dark.svg"><img src="assets/subly-light.svg" width="100%" alt="Subly — трекер подписок для Android"></picture></a>
 
 <a href="https://github.com/antonshkelll/sbp-economics"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/sbp-dark.svg"><img src="assets/sbp-light.svg" width="100%" alt="Экономика быстрого платежа — исследование СБП и цифрового рубля"></picture></a>
