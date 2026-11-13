@@ -8,6 +8,6 @@
  <text x="48" y="316" font-size="18" fill="#a1a7b0">Курсовая работа, веб-демо и воспроизводимый эксперимент</text>
  <rect x="887" y="39" width="335" height="281" rx="23" fill="#202932"/>
  <text x="913" y="79" font-size="15" fill="#a1a7b0">Посетителей в реальной выборке</text><text x="911" y="139" font-size="55" font-weight="700" fill="#f0f3f6">50 000</text>
- <text x="913" y="177" font-size="17" fill="#a1a7b0">354 863 события · 12 проверок</text>
+ <text x="913" y="177" font-size="17" fill="#a1a7b0">354 863 события · 20 проверок</text>
  <rect x="913" y="206" width="120" height="24" rx="5" fill="#b4ce73"/><rect x="1040" y="206" width="62" height="24" rx="5" fill="#82996c"/><rect x="1109" y="206" width="84" height="24" rx="5" fill="#adb9a3"/>
  <text x="913" y="256" font-size="15" fill="#a1a7b0">train → validation → test</text><text x="913" y="291" font-size="15" fill="#b4ce73">Источники и ограничения открыты</text></g></svg>
