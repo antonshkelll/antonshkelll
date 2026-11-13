@@ -37,6 +37,12 @@
   <a href="https://github.com/antonshkelll/ru-market-pulse"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/pulse-dark.svg"><img src="assets/pulse-light.svg" width="49%" alt="Пульс рынка"></picture></a>
 </p>
 
+### Учебные проекты
+
+<a href="https://github.com/antonshkelll/marketlens-coursework"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/marketlens-dark.svg"><img src="assets/marketlens-light.svg" width="100%" alt="MarketLens — учебный маркетплейс и лаборатория рекомендаций"></picture></a>
+
+<sub><a href="https://antonshkelll.github.io/marketlens-coursework/">Открыть демо</a> · <a href="https://github.com/antonshkelll/marketlens-coursework/tree/main/research">курсовая работа</a> · <a href="https://github.com/antonshkelll/marketlens-coursework/blob/main/DATA_SOURCES.md">происхождение данных</a></sub>
+
 &nbsp;
 
 ## Сегодня на рынке
