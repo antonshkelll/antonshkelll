@@ -1,7 +1,3 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-dark.svg"><img src="assets/portfolio-light.svg" width="100%" alt="Антон Шкель"></picture>
-
-[Профиль](https://github.com/antonshkelll) · [Портфолио](https://antonshkel.ru)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <img src="assets/header-light.svg" width="100%" alt="Антон Шкель — продуктовая аналитика, данные, финтех">
