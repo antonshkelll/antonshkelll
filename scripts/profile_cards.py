@@ -1,3 +1,4 @@
+from racing_style import decorate
 """Генерирует SVG для профиля GitHub: шапку и карточки проектов в светлой и тёмной теме.
 
 Запуск из корня репозитория: python scripts/profile_cards.py
@@ -23,10 +24,10 @@ def header(theme: str) -> str:
     blue = ACCENT["blue"][0 if theme == "light" else 1]
     return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 330" width="1280" height="330" role="img" aria-label="Антон Шкель">
   <rect width="1280" height="330" fill="{t['bg']}"/>
-  <text x="64" y="92" font-family="{FONT}" font-size="24" font-weight="600" fill="{blue}">Продуктовая аналитика · Данные · Финтех</text>
+  <text x="64" y="92" font-family="{FONT}" font-size="24" font-weight="600" fill="{blue}">Product / Business Analyst · Python / SQL</text>
   <text x="60" y="186" font-family="{FONT}" font-size="88" font-weight="700" letter-spacing="-2" fill="{t['ink']}">Антон Шкель.</text>
   <text x="64" y="244" font-family="{FONT}" font-size="30" fill="{t['muted']}">Делаю продукты и считаю, что с ними происходит.</text>
-  <text x="64" y="284" font-family="{FONT}" font-size="30" fill="{t['muted']}">Москва, Финансовый университет.</text>
+  <text x="64" y="284" font-family="{FONT}" font-size="30" fill="{t['muted']}">Ищу стажировку: продуктовая, бизнес- и антифрод-аналитика.</text>
 </svg>"""
 
 
@@ -137,9 +138,9 @@ WIDE = [
 ]
 
 for theme in THEMES:
-    (OUT / f"header-{theme}.svg").write_text(header(theme), encoding="utf-8", newline="\n")
+    (OUT / f"header-{theme}.svg").write_text(decorate(header(theme)), encoding="utf-8", newline="\n")
     for c in CARDS:
-        (OUT / f"{c['slug']}-{theme}.svg").write_text(card(theme, c), encoding="utf-8", newline="\n")
+        (OUT / f"{c['slug']}-{theme}.svg").write_text(decorate(card(theme, c)), encoding="utf-8", newline="\n")
     for w in WIDE:
-        (OUT / f"{w['slug']}-{theme}.svg").write_text(wide(theme, w), encoding="utf-8", newline="\n")
+        (OUT / f"{w['slug']}-{theme}.svg").write_text(decorate(wide(theme, w)), encoding="utf-8", newline="\n")
 print(sorted(p.name for p in OUT.iterdir()))

@@ -1,15 +1,30 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" width="100%" alt="Антон Шкель — продуктовая аналитика, данные, финтех">
+  <img src="assets/header-light.svg" width="100%" alt="Антон Шкель: продуктовая и бизнес-аналитика, Python и SQL">
 </picture>
 
-Учусь на программной инженерии в Финансовом университете. Делаю продукты, которыми пользуются люди: Telegram-боты и Mini App для студенческих проектов, сайты на заказ. Больше всего мне интересно, что с этими продуктами происходит потом, поэтому я занимаюсь аналитикой: метриками, экспериментами и экономикой.
+Учусь на программной инженерии в Финансовом университете. Соединяю продуктовую и бизнес-аналитику с разработкой: разбираюсь в задаче, описываю требования, собираю интерфейс и интеграции, проверяю результат данными. В проектах работаю с SQL, Python, экспериментами, антифродом и AI-ассистентами.
 
-Сейчас участвую в Альфа-Будущее Хакатоне 2026 в команде Vibe Security: отвечаю за продукт и мок-сервисы внешних источников для кредитного кабинета предпринимателя ([материалы](https://github.com/antonshkelll/vibe-security-materials)).
+Мне интересно пройти весь путь: от «зачем это пользователю?» до работающего продукта и понятного ответа на вопрос «что изменилось после запуска?».
 
-Ищу стажировку продуктового или антифрод-аналитика.
+**Ищу стажировку в продуктовой, бизнес- или антифрод-аналитике.** Открыт к задачам на стыке данных, продукта и Python-разработки.
 
-**Вне проектов:** болею за Ferrari в Формуле-1. Tifoso: красный цвет, внимание к деталям и интерес к тому, что стоит за результатом.
+<details>
+<summary>Вне проектов: Ferrari, Formula 1 и немного командного радио 🟡</summary>
+
+<p><img src="assets/racing/ferrari-yellow.svg" height="70" alt="Оригинальная жёлтая эмблема Ferrari"> &nbsp; <img src="assets/racing/f1.svg" width="100" alt="Formula 1"></p>
+
+**Melbourne 2025 / race radio**
+
+> Leclerc: “I have the seat full of water!”
+>
+> Bozzi: “Must be the water.”
+>
+> Leclerc: “Let’s add that to the words of wisdom.”
+
+[Оригинальная история: Formula 1](https://www.formula1.com/en/latest/article/funniest-moment-best-radio-message-and-much-more-f1s-2025-alternative-awards.1IRqxCvFzhvzMJQmMdQwpp.1IRqxCvFzhvzMJQmMdQwpp). Личный фан-блок; товарные знаки принадлежат правообладателям. Проекты не связаны с Ferrari или Formula 1.
+
+</details>
 
 &nbsp;
 

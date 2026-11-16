@@ -3,6 +3,7 @@
 Запускается по расписанию из .github/workflows/pulse.yml. Только стандартная библиотека.
 """
 from __future__ import annotations
+from racing_style import decorate
 
 import json
 import sys
@@ -81,7 +82,7 @@ def main() -> int:
         return 0
     OUT.mkdir(exist_ok=True)
     for theme in THEMES:
-        (OUT / f"market-{theme}.svg").write_text(render(data, theme), encoding="utf-8")
+        (OUT / f"market-{theme}.svg").write_text(decorate(render(data, theme)), encoding="utf-8")
     print("OK")
     return 0
 
