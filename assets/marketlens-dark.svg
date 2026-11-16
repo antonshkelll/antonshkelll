@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 360" width="1280" height="360" role="img" aria-label="MarketLens: учебный маркетплейс и лаборатория рекомендаций">
- <rect width="1280" height="360" fill="#0d1117"/><rect x="8" y="8" width="1264" height="344" rx="30" fill="#161b22"/>
+ <rect width="1280" height="360" fill="#170b10"/><rect x="8" y="8" width="1264" height="344" rx="30" fill="#161b22"/>
  <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif"><text x="48" y="65" font-size="20" font-weight="600" fill="#b4ce73">Учебный проект · базы данных · e-commerce</text>
  <text x="45" y="135" font-size="62" font-weight="700" letter-spacing="-2" fill="#f0f3f6">MarketLens</text>
  <text x="48" y="183" font-size="23" fill="#a1a7b0">Каталог, корзина и рекомендации с объяснением.</text>

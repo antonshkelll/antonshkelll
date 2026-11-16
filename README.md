@@ -1,3 +1,7 @@
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/portfolio-dark.svg"><img src="assets/portfolio-light.svg" width="100%" alt="Антон Шкель"></picture>
+
+[Профиль](https://github.com/antonshkelll) · [Портфолио](https://antonshkel.ru)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <img src="assets/header-light.svg" width="100%" alt="Антон Шкель — продуктовая аналитика, данные, финтех">
@@ -9,6 +13,8 @@
 
 Ищу стажировку продуктового или антифрод-аналитика.
 
+**Вне проектов:** болею за Ferrari в Формуле-1. Tifoso: красный цвет, внимание к деталям и интерес к тому, что стоит за результатом.
+
 &nbsp;
 
 ## Проекты
@@ -17,6 +23,10 @@
 
 Командный MVP для кредитования малого бизнеса. Мой вклад: продуктовая проработка, сценарии и тексты интерфейса, мок-сервисы внешних источников и синтетические данные.
 
+
+<a href="https://github.com/antonshkelll/opora-psb"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/opora-dark.svg"><img src="assets/opora-light.svg" width="100%" alt="ОПОРА V5: юридический ассистент ПСБ"></picture></a>
+
+**ОПОРА · Hack&Change 2026 / ПСБ. Итоговая версия: V5.** Мои роли: Product / Business Analyst, архитектор и разработчик интерфейса. Постановка задачи, требования и критерии приёмки; пользовательские сценарии; RAG и интеграция; веб-интерфейс, проверка качества, упаковка и защита. [Решение](https://github.com/antonshkelll/opora-psb) · [Демонстрация](https://antonshkelll.github.io/opora-psb/) · [Презентация](https://antonshkelll.github.io/opora-psb/deck.html) · [Выполненная работа](https://github.com/antonshkelll/opora-psb/blob/main/docs/WORK_DONE.md)
 
 <a href="https://github.com/antonshkelll/Subly"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/subly-dark.svg"><img src="assets/subly-light.svg" width="100%" alt="Subly — трекер подписок для Android"></picture></a>
 

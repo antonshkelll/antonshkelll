@@ -15,8 +15,8 @@ SOURCE = "https://raw.githubusercontent.com/antonshkelll/ru-market-pulse/main/do
 OUT = Path(__file__).resolve().parents[1] / "assets"
 FONT = "-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif"
 THEMES = {
-    "light": dict(bg="#ffffff", card="#f5f5f7", ink="#1d1d1f", muted="#6e6e73", up="#248a3d", down="#d70015", line="#0071e3"),
-    "dark": dict(bg="#0d1117", card="#1c1c1e", ink="#f5f5f7", muted="#a1a1a6", up="#30d158", down="#ff453a", line="#2997ff"),
+    "light": dict(bg="#ffffff", card="#f5f5f7", ink="#1d1d1f", muted="#6e6e73", up="#248a3d", down="#d70015", line="#a70821"),
+    "dark": dict(bg="#170b10", card="#241017", ink="#f5f5f7", muted="#a1a1a6", up="#30d158", down="#ff453a", line="#ce1533"),
 }
 SHOW = {"IMOEX": "Индекс МосБиржи", "RGBI": "Гособлигации", "CNYRUB": "Юань", "SBER": "Сбербанк"}
 

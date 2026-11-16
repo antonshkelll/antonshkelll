@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 380" width="1280" height="380" role="img" aria-label="Спроси ССт НАБ">
-  <rect width="1280" height="380" fill="#0d1117"/>
-  <rect x="8" y="8" width="1264" height="364" rx="30" fill="#1c1c1e"/>
+  <rect width="1280" height="380" fill="#170b10"/>
+  <rect x="8" y="8" width="1264" height="364" rx="30" fill="#241017"/>
   <text x="48" y="74" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="20" font-weight="600" fill="#bf5af2">Живой продукт · Telegram · версия 3</text>
   <text x="46" y="134" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="50" font-weight="700" letter-spacing="-1.5" fill="#f5f5f7">Спроси ССт НАБ</text>
   <text x="48" y="180" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#a1a1a6">Бот и Mini App студсовета: обращения со статусами,</text><text x="48" y="212" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="24" fill="#a1a1a6">анонсы, опросы, админка и метрики без слежки.</text>
@@ -17,7 +17,7 @@
   <text x="936" y="191" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#f5f5f7">Поломка</text>
   <text x="1188" y="191" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#a1a1a6">В работе</text>
   <rect x="888" y="220" width="312" height="50" rx="12" fill="#3a3a3c"/>
-  <rect x="900" y="233" width="24" height="24" rx="7" fill="#2997ff"/>
+  <rect x="900" y="233" width="24" height="24" rx="7" fill="#ce1533"/>
   <text x="936" y="251" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="600" fill="#f5f5f7">Инициатива</text>
   <text x="1188" y="251" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#a1a1a6">Принята</text>
   <rect x="888" y="280" width="312" height="50" rx="12" fill="#3a3a3c"/>

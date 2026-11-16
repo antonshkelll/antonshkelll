@@ -10,11 +10,11 @@ FONT = "-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Inter', 'Segoe UI'
 
 THEMES = {
     "light": dict(bg="#ffffff", card="#f5f5f7", ink="#1d1d1f", muted="#6e6e73"),
-    "dark": dict(bg="#0d1117", card="#1c1c1e", ink="#f5f5f7", muted="#a1a1a6"),
+    "dark": dict(bg="#170b10", card="#241017", ink="#f5f5f7", muted="#a1a1a6"),
 }
 ACCENT = {
-    "blue": ("#0071e3", "#2997ff"), "green": ("#248a3d", "#30d158"), "red": ("#d70015", "#ff453a"),
-    "purple": ("#8944ab", "#bf5af2"), "orange": ("#bf4800", "#ff9f0a"), "teal": ("#0b7285", "#64d2ff"),
+    "blue": ("#a70821", "#ce1533"), "green": ("#248a3d", "#30d158"), "red": ("#d70015", "#ff453a"),
+    "purple": ("#8944ab", "#bf5af2"), "orange": ("#bf4800", "#ff9f0a"), "teal": ("#0b7285", "#ff435b"),
 }
 
 
